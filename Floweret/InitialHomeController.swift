@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LoginController.swift
 //  Floweret
 //
 //  Created by Roberto Hernandez on 6/6/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class InitialHomeController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
